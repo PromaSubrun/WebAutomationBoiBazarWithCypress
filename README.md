@@ -3,16 +3,16 @@ This project is a web automation framework using Cypress for testing BoiBazar, a
 
 Features:
 
-Automated testing of BoiBazar website.
-Easy-to-understand Cypress test scripts.
-Sample test cases to get you started.
-Designed for both beginners and experienced testers.
+1. Automated testing of BoiBazar website.
+2. Easy-to-understand Cypress test scripts.
+3. Sample test cases to get you started.
+4. Designed for both beginners and experienced testers.
 
 Getting Started:
 
-Clone this repository: git clone https://github.com/PromaSubrun/WebAutomationBoiBazarWithCypress.git
-Install dependencies: npm install
-Run sample tests: npm run
+1. Clone this repository: git clone https://github.com/PromaSubrun/WebAutomationBoiBazarWithCypress.git
+2. Install dependencies: npm install
+3. Run sample tests: npm run
 
 Project Structure:
 
